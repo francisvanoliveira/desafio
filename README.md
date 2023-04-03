@@ -1,5 +1,5 @@
 <span align="center">
-    <h1>Desafio Targo Sistema</h1>
+    <h1>Desafio Target Sistema</h1>
 </span>
 
 <p align="center">Vaga de estágio para Análise e Desenvolvimento</p>
